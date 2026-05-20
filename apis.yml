@@ -20,6 +20,8 @@ tags:
   - Resins
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hexion-inc
   - type: Website
     url: https://www.hexion.com
 maintainers:
