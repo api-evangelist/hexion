@@ -20,6 +20,8 @@ tags:
   - Resins
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/hexion-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hexion-inc
   - type: Website
