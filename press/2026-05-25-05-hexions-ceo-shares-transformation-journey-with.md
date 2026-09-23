@@ -1,7 +1,9 @@
 ---
 title: Hexion's CEO Shares Transformation Journey with ...
 url: https://www.hexion.com/news-resources/news-detail/hexion-s-ceo-shares-transformation-journey-with-chemical-week
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hexion" press release artificial intelligence'
 position: 5
 source: serpapi-google
